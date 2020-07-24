@@ -12,12 +12,8 @@ Here are some options for what you could do today.
 
 ## If you're uncomfortable with the fundamentals
 
-* [Here](https://git.generalassemb.ly/ga-wdi-lessons/react-fundamentals-review) is a review packet with mini-lessons on the React unit. There's also a very scaffolded lab included.
-
-* [Here](https://git.generalassemb.ly/ga-wdi-exercises/react-shopping-cart) is another lab on building a shopping cart with React.
-
-* You could add Jest tests to previous homeworks and labs to get more practice with testing. You could also find a design on [Dribbble](https://dribbble.com/) and re-create the components in Storybook.
-
+* Look back through the lessons from the week and re-do some of the exercises. Also, look at the additional resources linked in each lesson.
+* Build out a new react app that interests you.
 * Write [sketch notes](https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/) about our React material. Revisit old lessons to do this.
 
 ## If you are looking for a challenge
